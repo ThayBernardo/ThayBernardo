@@ -1,7 +1,6 @@
 ## Oii eu sou a Thayssa, seja bem vindo(a) ao meu perfil do GitHub!
 
 💻 Desenvolvedora FullStack.
-Testando
 
 <div align="center">
   <a href="https://github.com/ThayBernardo">
