@@ -1,6 +1,7 @@
 ## Oii eu sou a Thayssa, seja bem vindo(a) ao meu perfil do GitHub!
 
 💻 Desenvolvedora FullStack.
+Testando
 
 <div align="center">
   <a href="https://github.com/ThayBernardo">
@@ -22,7 +23,7 @@
 </div>
   
   ##
- 
+
 <div> 
   <a href = "mailto:thayssabernardo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thayssabernardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
